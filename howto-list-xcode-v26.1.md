@@ -18,28 +18,28 @@
 ## Beginner Level (Items 1-30)
 
 ### Getting Started & Setup
-- [ ] 1. How to download and install Xcode 26.1+ from the Mac App Store
-- [ ] 2. How to verify Xcode installation and check the version number
-- [ ] 3. How to enable Apple Intelligence in macOS System Settings for Coding Intelligence
-- [ ] 4. How to set up an Apple Developer account for iOS development
-- [ ] 5. How to configure Xcode preferences for optimal development experience
-- [ ] 6. How to understand and navigate the Xcode 26 interface (Navigator, Editor, Inspector, Debug areas)
-- [ ] 7. How to access the new Intelligence settings tab in Xcode preferences
-- [ ] 8. How to create your first iOS app project using the App template
-- [ ] 9. How to choose between SwiftUI and UIKit for your project
-- [ ] 10. How to set up signing and capabilities for your app project
+- [x] 1. How to download and install Xcode 26.1+ from the Mac App Store
+- [x] 2. How to verify Xcode installation and check the version number
+- [x] 3. How to enable Apple Intelligence in macOS System Settings for Coding Intelligence
+- [x] 4. How to set up an Apple Developer account for iOS development
+- [x] 5. How to configure Xcode preferences for optimal development experience
+- [x] 6. How to understand and navigate the Xcode 26 interface (Navigator, Editor, Inspector, Debug areas)
+- [x] 7. How to access the new Intelligence settings tab in Xcode preferences
+- [x] 8. How to create your first iOS app project using the App template
+- [x] 9. How to choose between SwiftUI and UIKit for your project
+- [x] 10. How to set up signing and capabilities for your app project
 
 ### Basic Swift & SwiftUI Fundamentals
-- [ ] 11. How to write your first "Hello World" SwiftUI view
-- [ ] 12. How to create and use Swift variables and constants
-- [ ] 13. How to work with basic Swift data types (String, Int, Bool, Double)
-- [ ] 14. How to create functions in Swift with parameters and return values
-- [ ] 15. How to use Swift optionals and safely unwrap values
-- [ ] 16. How to create and use Swift arrays and dictionaries
-- [ ] 17. How to implement basic control flow (if/else, switch statements)
-- [ ] 18. How to use Swift loops (for-in, while) for iteration
-- [ ] 19. How to create and use custom Swift structs
-- [ ] 20. How to create and use Swift classes with inheritance
+- [x] 11. How to write your first "Hello World" SwiftUI view
+- [x] 12. How to create and use Swift variables and constants
+- [x] 13. How to work with basic Swift data types (String, Int, Bool, Double)
+- [x] 14. How to create functions in Swift with parameters and return values
+- [x] 15. How to use Swift optionals and safely unwrap values
+- [x] 16. How to create and use Swift arrays and dictionaries
+- [x] 17. How to implement basic control flow (if/else, switch statements)
+- [x] 18. How to use Swift loops (for-in, while) for iteration
+- [x] 19. How to create and use custom Swift structs
+- [x] 20. How to create and use Swift classes with inheritance
 
 ### First App Development
 - [ ] 21. How to add UI elements to your SwiftUI view (Text, Image, Button)
