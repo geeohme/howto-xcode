@@ -1,6 +1,6 @@
 # Knowledge Base Index: Xcode v26.1+
 
-**Total Articles**: 70
+**Total Articles**: 85
 **Last Updated**: November 18, 2025
 **Topic**: Build an iOS App for the App Store (Beginner to Advanced) using AI Code Assist
 **Xcode Version**: 26.1+ (Current: 26.1.1 stable, 26.2 beta available)
@@ -18,6 +18,9 @@
 - [Intermediate Level (51-70)](#intermediate-level-items-51-70)
   - [Advanced AI Coding Assistant Usage](#advanced-ai-coding-assistant-usage-items-51-60)
   - [Additional AI Model Providers](#additional-ai-model-providers-items-61-70)
+- [Intermediate-Advanced Level (71-85)](#intermediate-advanced-level-items-71-85)
+  - [Advanced UI Development with AI Assistance](#advanced-ui-development-with-ai-assistance-items-71-78)
+  - [Data Management & Networking](#data-management--networking-items-79-85)
 
 ---
 
@@ -138,6 +141,35 @@
 
 ---
 
+## Intermediate-Advanced Level (Items 71-85)
+
+### Advanced UI Development with AI Assistance (Items 71-78)
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-071 | How to use VStack, HStack, and ZStack for layout composition | `kb-article-071-vstack-hstack-zstack-layout-composition.md` | ✅ Complete |
+| KB-072 | How to apply modifiers to customize SwiftUI views | `kb-article-072-apply-modifiers-customize-swiftui-views.md` | ✅ Complete |
+| KB-073 | How to use AI to generate complex custom view modifiers | `kb-article-073-ai-generate-custom-view-modifiers.md` | ✅ Complete |
+| KB-074 | How to build navigation hierarchies using NavigationStack with AI guidance | `kb-article-074-navigation-stack-hierarchies-ai-guidance.md` | ✅ Complete |
+| KB-075 | How to implement tab-based navigation with TabView | `kb-article-075-tab-based-navigation-tabview.md` | ✅ Complete |
+| KB-076 | How to create adaptive layouts that work across iPhone and iPad with AI help | `kb-article-076-adaptive-layouts-iphone-ipad-ai.md` | ✅ Complete |
+| KB-077 | How to implement custom animations and transitions using AI suggestions | `kb-article-077-custom-animations-transitions-ai.md` | ✅ Complete |
+| KB-078 | How to build reusable component libraries with AI-generated documentation | `kb-article-078-reusable-component-libraries-ai-docs.md` | ✅ Complete |
+
+### Data Management & Networking (Items 79-85)
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-079 | How to use @Observable macro for state management (Swift 6) | `kb-article-079-observable-macro-state-management.md` | ✅ Complete |
+| KB-080 | How to implement SwiftData for modern data persistence | `kb-article-080-swiftdata-modern-persistence.md` | ✅ Complete |
+| KB-081 | How to create a network service layer with AI-generated code | `kb-article-081-network-service-layer-ai-code.md` | ✅ Complete |
+| KB-082 | How to implement async/await for network calls using AI assistance | `kb-article-082-async-await-network-calls-ai.md` | ✅ Complete |
+| KB-083 | How to use AI to generate comprehensive error handling for API requests | `kb-article-083-ai-error-handling-api-requests.md` | ✅ Complete |
+| KB-084 | How to implement authentication flows with AI-generated code | `kb-article-084-authentication-flows-ai-code.md` | ✅ Complete |
+| KB-085 | How to ask AI to create mock data services for testing | `kb-article-085-ai-mock-data-services-testing.md` | ✅ Complete |
+
+---
+
 ## Learning Path Recommendations
 
 ### For Complete Beginners
@@ -161,10 +193,15 @@ Continue with **Advanced AI Coding Assistant Usage** articles (KB-051 through KB
 ### For Multi-Model AI Workflows
 Explore **Additional AI Model Providers** articles (KB-061 through KB-070) to expand your toolkit with Google Gemini, OpenRouter, local models (Ollama, LM Studio), cost management strategies, and Voice Coding capabilities.
 
+### For Advanced UI Development
+Progress through **Advanced UI Development with AI Assistance** articles (KB-071 through KB-078) to master SwiftUI layout stacks, view modifiers, navigation patterns, adaptive layouts, animations, and component library design with AI assistance.
+
+### For Data & Networking
+Continue with **Data Management & Networking** articles (KB-079 through KB-085) to implement modern state management with @Observable, SwiftData persistence, networking with async/await, error handling, authentication, and testing with mock services.
+
 ### Next Steps
-After completing items 1-70, you'll be ready to continue with:
-- Items 71-85: Intermediate-Advanced Level (Advanced UI, data management, networking)
-- Items 86-100: Advanced Level (Swift 6 concurrency, testing, App Store submission)
+After completing items 1-85, you'll be ready to continue with:
+- Items 86-100: Advanced Level (Swift 6 concurrency, testing, debugging, App Store submission)
 
 ---
 
