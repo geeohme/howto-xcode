@@ -1,6 +1,6 @@
 # Knowledge Base Index: Xcode v26.1+
 
-**Total Articles**: 50
+**Total Articles**: 70
 **Last Updated**: November 18, 2025
 **Topic**: Build an iOS App for the App Store (Beginner to Advanced) using AI Code Assist
 **Xcode Version**: 26.1+ (Current: 26.1.1 stable, 26.2 beta available)
@@ -15,6 +15,9 @@
 - [Beginner-Intermediate Level (31-50)](#beginner-intermediate-level-items-31-50)
   - [Using Integrated AI Coding Agents: ChatGPT Integration](#using-integrated-ai-coding-agents-chatgpt-integration-items-31-40)
   - [Claude Integration (API-based)](#claude-integration-api-based-items-41-50)
+- [Intermediate Level (51-70)](#intermediate-level-items-51-70)
+  - [Advanced AI Coding Assistant Usage](#advanced-ai-coding-assistant-usage-items-51-60)
+  - [Additional AI Model Providers](#additional-ai-model-providers-items-61-70)
 
 ---
 
@@ -101,6 +104,40 @@
 
 ---
 
+## Intermediate Level (Items 51-70)
+
+### Advanced AI Coding Assistant Usage (Items 51-60)
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-051 | How to use AI to generate unit tests for existing code | `kb-article-051-use-ai-generate-unit-tests-existing-code.md` | ✅ Complete |
+| KB-052 | How to prompt AI assistants to create SwiftUI preview code | `kb-article-052-prompt-ai-assistants-create-swiftui-preview-code.md` | ✅ Complete |
+| KB-053 | How to ask AI to implement MVVM architecture for a feature | `kb-article-053-ask-ai-implement-mvvm-architecture-feature.md` | ✅ Complete |
+| KB-054 | How to use AI to convert UIKit code to SwiftUI | `kb-article-054-use-ai-convert-uikit-code-swiftui.md` | ✅ Complete |
+| KB-055 | How to have AI explain error messages and suggest fixes | `kb-article-055-have-ai-explain-error-messages-suggest-fixes.md` | ✅ Complete |
+| KB-056 | How to use AI to optimize slow-performing code | `kb-article-056-use-ai-optimize-slow-performing-code.md` | ✅ Complete |
+| KB-057 | How to generate Codable models from JSON using AI | `kb-article-057-generate-codable-models-json-using-ai.md` | ✅ Complete |
+| KB-058 | How to ask AI to add comprehensive error handling to functions | `kb-article-058-ask-ai-add-comprehensive-error-handling-functions.md` | ✅ Complete |
+| KB-059 | How to use AI to suggest accessibility improvements | `kb-article-059-use-ai-suggest-accessibility-improvements.md` | ✅ Complete |
+| KB-060 | How to prompt AI to localize strings and prepare for internationalization | `kb-article-060-prompt-ai-localize-strings-prepare-internationalization.md` | ✅ Complete |
+
+### Additional AI Model Providers (Items 61-70)
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-061 | How to add Google Gemini as a custom model provider via API | `kb-article-061-add-google-gemini-custom-model-provider-api.md` | ✅ Complete |
+| KB-062 | How to configure OpenRouter.io for multi-model access with one API key | `kb-article-062-configure-openrouter-io-multi-model-access-one-api-key.md` | ✅ Complete |
+| KB-063 | How to set up local AI models using Ollama in Xcode | `kb-article-063-set-up-local-ai-models-using-ollama-xcode.md` | ✅ Complete |
+| KB-064 | How to configure LM Studio for local model integration | `kb-article-064-configure-lm-studio-local-model-integration.md` | ✅ Complete |
+| KB-065 | How to switch between multiple AI providers in the same conversation | `kb-article-065-switch-between-multiple-ai-providers-same-conversation.md` | ✅ Complete |
+| KB-066 | How to understand the cost implications of different AI model APIs | `kb-article-066-understand-cost-implications-different-ai-model-apis.md` | ✅ Complete |
+| KB-067 | How to manage multiple API keys for different providers | `kb-article-067-manage-multiple-api-keys-different-providers.md` | ✅ Complete |
+| KB-068 | How to troubleshoot AI provider connection issues | `kb-article-068-troubleshoot-ai-provider-connection-issues.md` | ✅ Complete |
+| KB-069 | How to reverse-engineer and customize Coding Intelligence prompts | `kb-article-069-reverse-engineer-customize-coding-intelligence-prompts.md` | ✅ Complete |
+| KB-070 | How to use Voice Coding to dictate Swift code with macOS Voice Control | `kb-article-070-use-voice-coding-dictate-swift-code-macos-voice-control.md` | ✅ Complete |
+
+---
+
 ## Learning Path Recommendations
 
 ### For Complete Beginners
@@ -118,10 +155,16 @@ Continue with **Using Integrated AI Coding Agents: ChatGPT Integration** article
 ### For Advanced AI Integration
 Progress through **Claude Integration (API-based)** articles (KB-041 through KB-050) to add Claude Sonnet 4 as an alternative AI model provider for complex refactoring, architecture analysis, and large code reviews.
 
+### For Advanced AI Development Techniques
+Continue with **Advanced AI Coding Assistant Usage** articles (KB-051 through KB-060) to master advanced techniques like unit test generation, MVVM implementation, UIKit-to-SwiftUI conversion, error handling, accessibility improvements, and internationalization.
+
+### For Multi-Model AI Workflows
+Explore **Additional AI Model Providers** articles (KB-061 through KB-070) to expand your toolkit with Google Gemini, OpenRouter, local models (Ollama, LM Studio), cost management strategies, and Voice Coding capabilities.
+
 ### Next Steps
-After completing items 1-50, you'll be ready to continue with:
-- Items 51-70: Intermediate Level topics (Advanced AI usage, additional model providers)
-- Items 71-100: Advanced development and App Store submission
+After completing items 1-70, you'll be ready to continue with:
+- Items 71-85: Intermediate-Advanced Level (Advanced UI, data management, networking)
+- Items 86-100: Advanced Level (Swift 6 concurrency, testing, App Store submission)
 
 ---
 
