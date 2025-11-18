@@ -1,7 +1,7 @@
 # Knowledge Base Index: Xcode v26.1+
 
-**Total Articles**: 30
-**Last Updated**: November 17, 2025
+**Total Articles**: 40
+**Last Updated**: November 18, 2025
 **Topic**: Build an iOS App for the App Store (Beginner to Advanced) using AI Code Assist
 **Xcode Version**: 26.1+ (Current: 26.1.1 stable, 26.2 beta available)
 
@@ -9,9 +9,11 @@
 
 ## Quick Navigation
 - [Beginner Level (1-30)](#beginner-level-items-1-30)
-- [Getting Started & Setup](#getting-started--setup-items-1-10)
-- [Basic Swift & SwiftUI Fundamentals](#basic-swift--swiftui-fundamentals-items-11-20)
-- [First App Development](#first-app-development-items-21-30)
+  - [Getting Started & Setup](#getting-started--setup-items-1-10)
+  - [Basic Swift & SwiftUI Fundamentals](#basic-swift--swiftui-fundamentals-items-11-20)
+  - [First App Development](#first-app-development-items-21-30)
+- [Beginner-Intermediate Level (31-40)](#beginner-intermediate-level-items-31-40)
+  - [Using Integrated AI Coding Agents: ChatGPT Integration](#using-integrated-ai-coding-agents-chatgpt-integration-items-31-40)
 
 ---
 
@@ -64,6 +66,25 @@
 
 ---
 
+## Beginner-Intermediate Level (Items 31-40)
+
+### Using Integrated AI Coding Agents: ChatGPT Integration (Items 31-40)
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-031 | How to access the Coding Assistant in Xcode 26 with ChatGPT | `kb-article-031-access-coding-assistant-xcode-26-chatgpt.md` | ✅ Complete |
+| KB-032 | How to start a new conversation with ChatGPT in Xcode | `kb-article-032-start-conversation-chatgpt-xcode.md` | ✅ Complete |
+| KB-033 | How to use ChatGPT without a paid account (free tier limitations) | `kb-article-033-chatgpt-free-tier-limitations.md` | ✅ Complete |
+| KB-034 | How to connect your paid OpenAI account for more requests | `kb-article-034-connect-paid-openai-account.md` | ✅ Complete |
+| KB-035 | How to choose between GPT-5, GPT-4.1, and GPT-5 Reasoning models | `kb-article-035-choose-gpt-models.md` | ✅ Complete |
+| KB-036 | How to understand the difference between GPT-5 and GPT-5 Reasoning | `kb-article-036-gpt5-vs-gpt5-reasoning.md` | ✅ Complete |
+| KB-037 | How to generate SwiftUI views from natural language descriptions using ChatGPT | `kb-article-037-generate-swiftui-views-chatgpt.md` | ✅ Complete |
+| KB-038 | How to ask ChatGPT to explain selected code in your project | `kb-article-038-explain-code-chatgpt.md` | ✅ Complete |
+| KB-039 | How to use ChatGPT to fix compiler errors and bugs | `kb-article-039-fix-errors-bugs-chatgpt.md` | ✅ Complete |
+| KB-040 | How to generate documentation comments with ChatGPT | `kb-article-040-generate-documentation-chatgpt.md` | ✅ Complete |
+
+---
+
 ## Learning Path Recommendations
 
 ### For Complete Beginners
@@ -75,10 +96,13 @@ Progress through **Basic Swift & SwiftUI Fundamentals** articles (KB-011 through
 ### For First App Builders
 Continue with **First App Development** articles (KB-021 through KB-030) to build, test, and deploy your first SwiftUI application.
 
+### For AI-Assisted Development
+Continue with **Using Integrated AI Coding Agents: ChatGPT Integration** articles (KB-031 through KB-040) to master AI-powered coding assistance in Xcode 26.1+.
+
 ### Next Steps
-After completing items 1-30, you'll be ready to continue with:
-- Items 31-50: Using Integrated AI Coding Agents (ChatGPT and Claude)
-- Items 51-70: Intermediate Level topics
+After completing items 1-40, you'll be ready to continue with:
+- Items 41-50: Claude Integration (Advanced AI Model Setup)
+- Items 51-70: Intermediate Level topics (Advanced AI usage, additional model providers)
 - Items 71-100: Advanced development and App Store submission
 
 ---
