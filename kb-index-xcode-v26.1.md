@@ -1,6 +1,6 @@
 # Knowledge Base Index: Xcode v26.1+
 
-**Total Articles**: 85
+**Total Articles**: 100
 **Last Updated**: November 18, 2025
 **Topic**: Build an iOS App for the App Store (Beginner to Advanced) using AI Code Assist
 **Xcode Version**: 26.1+ (Current: 26.1.1 stable, 26.2 beta available)
@@ -21,6 +21,10 @@
 - [Intermediate-Advanced Level (71-85)](#intermediate-advanced-level-items-71-85)
   - [Advanced UI Development with AI Assistance](#advanced-ui-development-with-ai-assistance-items-71-78)
   - [Data Management & Networking](#data-management--networking-items-79-85)
+- [Advanced Level (86-100)](#advanced-level-items-86-100)
+  - [Advanced Swift & Concurrency with AI](#advanced-swift--concurrency-with-ai-items-86-90)
+  - [Testing, Debugging & Performance](#testing-debugging--performance-items-91-95)
+  - [App Store Submission with AI Support](#app-store-submission-with-ai-support-items-96-100)
 
 ---
 
@@ -170,6 +174,40 @@
 
 ---
 
+## Advanced Level (Items 86-100)
+
+### Advanced Swift & Concurrency with AI (Items 86-90)
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-086 | How to implement Swift 6 concurrency with actors using AI guidance | `kb-article-086-implement-swift-6-concurrency-with-actors-using-ai-guidance.md` | ✅ Complete |
+| KB-087 | How to use @MainActor for UI updates with AI-generated patterns | `kb-article-087-use-mainactor-for-ui-updates-with-ai-generated-patterns.md` | ✅ Complete |
+| KB-088 | How to handle data races using Swift 6 compile-time safety with AI help | `kb-article-088-handle-data-races-using-swift-6-compile-time-safety-with-ai-help.md` | ✅ Complete |
+| KB-089 | How to use AI to identify and fix concurrency bugs | `kb-article-089-use-ai-to-identify-and-fix-concurrency-bugs.md` | ✅ Complete |
+| KB-090 | How to implement protocol-oriented programming with AI suggestions | `kb-article-090-implement-protocol-oriented-programming-with-ai-suggestions.md` | ✅ Complete |
+
+### Testing, Debugging & Performance (Items 91-95)
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-091 | How to use AI to generate comprehensive test suites | `kb-article-091-use-ai-to-generate-comprehensive-test-suites.md` | ✅ Complete |
+| KB-092 | How to leverage AI for debugging complex state management issues | `kb-article-092-leverage-ai-for-debugging-complex-state-management-issues.md` | ✅ Complete |
+| KB-093 | How to use the enhanced debugger to track Swift Tasks across threads | `kb-article-093-use-enhanced-debugger-to-track-swift-tasks-across-threads.md` | ✅ Complete |
+| KB-094 | How to enable Compilation Caching for faster build times | `kb-article-094-enable-compilation-caching-for-faster-build-times.md` | ✅ Complete |
+| KB-095 | How to use AI to analyze and optimize app performance | `kb-article-095-use-ai-to-analyze-and-optimize-app-performance.md` | ✅ Complete |
+
+### App Store Submission with AI Support (Items 96-100)
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-096 | How to use AI to write compelling App Store descriptions | `kb-article-096-use-ai-to-write-compelling-app-store-descriptions.md` | ✅ Complete |
+| KB-097 | How to ask AI to check your app against App Store review guidelines | `kb-article-097-ask-ai-to-check-your-app-against-app-store-review-guidelines.md` | ✅ Complete |
+| KB-098 | How to generate privacy policy content with AI assistance | `kb-article-098-generate-privacy-policy-content-with-ai-assistance.md` | ✅ Complete |
+| KB-099 | How to create an archive and upload to App Store Connect | `kb-article-099-create-archive-and-upload-to-app-store-connect.md` | ✅ Complete |
+| KB-100 | How to use AI to troubleshoot TestFlight and submission errors | `kb-article-100-use-ai-to-troubleshoot-testflight-and-submission-errors.md` | ✅ Complete |
+
+---
+
 ## Learning Path Recommendations
 
 ### For Complete Beginners
@@ -199,9 +237,17 @@ Progress through **Advanced UI Development with AI Assistance** articles (KB-071
 ### For Data & Networking
 Continue with **Data Management & Networking** articles (KB-079 through KB-085) to implement modern state management with @Observable, SwiftData persistence, networking with async/await, error handling, authentication, and testing with mock services.
 
-### Next Steps
-After completing items 1-85, you'll be ready to continue with:
-- Items 86-100: Advanced Level (Swift 6 concurrency, testing, debugging, App Store submission)
+### For Advanced Swift Concurrency
+Progress through **Advanced Swift & Concurrency with AI** articles (KB-086 through KB-090) to master Swift 6's actor-based concurrency model, @MainActor for UI updates, compile-time data race safety, AI-assisted concurrency debugging, and protocol-oriented programming with AI guidance.
+
+### For Testing, Debugging & Performance
+Continue with **Testing, Debugging & Performance** articles (KB-091 through KB-095) to leverage AI for comprehensive test generation, state management debugging, Swift Task tracking in Xcode's enhanced debugger, compilation caching optimization, and app performance analysis.
+
+### For App Store Submission
+Complete the journey with **App Store Submission with AI Support** articles (KB-096 through KB-100) to craft compelling App Store descriptions, verify compliance with review guidelines, generate privacy policies, create archives, upload to App Store Connect, and troubleshoot TestFlight/submission errors—all with AI assistance.
+
+### Congratulations!
+After completing all 100 articles, you'll have comprehensive knowledge of building, optimizing, and publishing iOS apps using Xcode 26.1+ with AI-powered development workflows.
 
 ---
 
