@@ -42,16 +42,16 @@
 - [x] 20. How to create and use Swift classes with inheritance
 
 ### First App Development
-- [ ] 21. How to add UI elements to your SwiftUI view (Text, Image, Button)
-- [ ] 22. How to use @State property wrapper for managing view state
-- [ ] 23. How to handle button actions and user interactions
-- [ ] 24. How to preview your SwiftUI views using Xcode Previews
-- [ ] 25. How to use the #Playground macro to test code snippets anywhere
-- [ ] 26. How to run your app on the iOS Simulator
-- [ ] 27. How to run your app on a physical iPhone or iPad device
-- [ ] 28. How to debug common build errors as a beginner
-- [ ] 29. How to use Semantic Search to find code across your project
-- [ ] 30. How to create app icons using Icon Composer for all platforms
+- [x] 21. How to add UI elements to your SwiftUI view (Text, Image, Button)
+- [x] 22. How to use @State property wrapper for managing view state
+- [x] 23. How to handle button actions and user interactions
+- [x] 24. How to preview your SwiftUI views using Xcode Previews
+- [x] 25. How to use the #Playground macro to test code snippets anywhere
+- [x] 26. How to run your app on the iOS Simulator
+- [x] 27. How to run your app on a physical iPhone or iPad device
+- [x] 28. How to debug common build errors as a beginner
+- [x] 29. How to use Semantic Search to find code across your project
+- [x] 30. How to create app icons using Icon Composer for all platforms
 
 ---
 
