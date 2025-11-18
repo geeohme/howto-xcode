@@ -1,6 +1,6 @@
 # Knowledge Base Index: Xcode v26.1+
 
-**Total Articles**: 20
+**Total Articles**: 30
 **Last Updated**: November 17, 2025
 **Topic**: Build an iOS App for the App Store (Beginner to Advanced) using AI Code Assist
 **Xcode Version**: 26.1+ (Current: 26.1.1 stable, 26.2 beta available)
@@ -8,13 +8,14 @@
 ---
 
 ## Quick Navigation
-- [Beginner Level (1-20)](#beginner-level-items-1-20)
+- [Beginner Level (1-30)](#beginner-level-items-1-30)
 - [Getting Started & Setup](#getting-started--setup-items-1-10)
 - [Basic Swift & SwiftUI Fundamentals](#basic-swift--swiftui-fundamentals-items-11-20)
+- [First App Development](#first-app-development-items-21-30)
 
 ---
 
-## Beginner Level (Items 1-20)
+## Beginner Level (Items 1-30)
 
 ### Getting Started & Setup (Items 1-10)
 
@@ -46,6 +47,21 @@
 | KB-019 | How to create and use custom Swift structs | `kb-article-019-how-to-create-and-use-custom-swift-structs.md` | ✅ Complete |
 | KB-020 | How to create and use Swift classes with inheritance | `kb-article-020-how-to-create-and-use-swift-classes-with-inheritance.md` | ✅ Complete |
 
+### First App Development (Items 21-30)
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-021 | How to add UI elements to your SwiftUI view (Text, Image, Button) | `kb-article-021-add-ui-elements-swiftui-view.md` | ✅ Complete |
+| KB-022 | How to use @State property wrapper for managing view state | `kb-article-022-state-property-wrapper.md` | ✅ Complete |
+| KB-023 | How to handle button actions and user interactions | `kb-article-023-button-actions-user-interactions.md` | ✅ Complete |
+| KB-024 | How to preview your SwiftUI views using Xcode Previews | `kb-article-024-preview-swiftui-views-xcode-previews.md` | ✅ Complete |
+| KB-025 | How to use the #Playground macro to test code snippets anywhere | `kb-article-025-playground-macro-test-code-snippets.md` | ✅ Complete |
+| KB-026 | How to run your app on the iOS Simulator | `kb-article-026-run-app-ios-simulator.md` | ✅ Complete |
+| KB-027 | How to run your app on a physical iPhone or iPad device | `kb-article-027-run-app-physical-device.md` | ✅ Complete |
+| KB-028 | How to debug common build errors as a beginner | `kb-article-028-debug-common-build-errors.md` | ✅ Complete |
+| KB-029 | How to use Semantic Search to find code across your project | `kb-article-029-semantic-search-find-code.md` | ✅ Complete |
+| KB-030 | How to create app icons using Icon Composer for all platforms | `kb-article-030-create-app-icons-icon-composer.md` | ✅ Complete |
+
 ---
 
 ## Learning Path Recommendations
@@ -56,11 +72,14 @@ Start with **Getting Started & Setup** articles (KB-001 through KB-010) to confi
 ### For Swift Language Learners
 Progress through **Basic Swift & SwiftUI Fundamentals** articles (KB-011 through KB-020) to build foundational programming skills.
 
+### For First App Builders
+Continue with **First App Development** articles (KB-021 through KB-030) to build, test, and deploy your first SwiftUI application.
+
 ### Next Steps
-After completing items 1-20, you'll be ready to continue with:
-- Items 21-30: First App Development
+After completing items 1-30, you'll be ready to continue with:
 - Items 31-50: Using Integrated AI Coding Agents (ChatGPT and Claude)
 - Items 51-70: Intermediate Level topics
+- Items 71-100: Advanced development and App Store submission
 
 ---
 
