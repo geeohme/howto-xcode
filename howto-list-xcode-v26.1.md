@@ -60,16 +60,16 @@
 ### Using Integrated AI Coding Agents: ChatGPT and Claude
 
 #### ChatGPT Integration (Built-in)
-- [ ] 31. How to access the Coding Assistant in Xcode 26 with ChatGPT
-- [ ] 32. How to start a new conversation with ChatGPT in Xcode
-- [ ] 33. How to use ChatGPT without a paid account (free tier limitations)
-- [ ] 34. How to connect your paid OpenAI account for more requests
-- [ ] 35. How to choose between GPT-5, GPT-4.1, and GPT-5 Reasoning models
-- [ ] 36. How to understand the difference between GPT-5 and GPT-5 Reasoning
-- [ ] 37. How to generate SwiftUI views from natural language descriptions using ChatGPT
-- [ ] 38. How to ask ChatGPT to explain selected code in your project
-- [ ] 39. How to use ChatGPT to fix compiler errors and bugs
-- [ ] 40. How to generate documentation comments with ChatGPT
+- [x] 31. How to access the Coding Assistant in Xcode 26 with ChatGPT
+- [x] 32. How to start a new conversation with ChatGPT in Xcode
+- [x] 33. How to use ChatGPT without a paid account (free tier limitations)
+- [x] 34. How to connect your paid OpenAI account for more requests
+- [x] 35. How to choose between GPT-5, GPT-4.1, and GPT-5 Reasoning models
+- [x] 36. How to understand the difference between GPT-5 and GPT-5 Reasoning
+- [x] 37. How to generate SwiftUI views from natural language descriptions using ChatGPT
+- [x] 38. How to ask ChatGPT to explain selected code in your project
+- [x] 39. How to use ChatGPT to fix compiler errors and bugs
+- [x] 40. How to generate documentation comments with ChatGPT
 
 #### Claude Integration (API-based)
 - [ ] 41. How to create an Anthropic API account at console.anthropic.com
