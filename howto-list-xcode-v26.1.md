@@ -139,25 +139,25 @@
 ## Advanced Level (Items 86-100)
 
 ### Advanced Swift & Concurrency with AI
-- [ ] 86. How to implement Swift 6 concurrency with actors using AI guidance
-- [ ] 87. How to use @MainActor for UI updates with AI-generated patterns
-- [ ] 88. How to handle data races using Swift 6 compile-time safety with AI help
-- [ ] 89. How to use AI to identify and fix concurrency bugs
-- [ ] 90. How to implement protocol-oriented programming with AI suggestions
+- [x] 86. How to implement Swift 6 concurrency with actors using AI guidance
+- [x] 87. How to use @MainActor for UI updates with AI-generated patterns
+- [x] 88. How to handle data races using Swift 6 compile-time safety with AI help
+- [x] 89. How to use AI to identify and fix concurrency bugs
+- [x] 90. How to implement protocol-oriented programming with AI suggestions
 
 ### Testing, Debugging & Performance
-- [ ] 91. How to use AI to generate comprehensive test suites
-- [ ] 92. How to leverage AI for debugging complex state management issues
-- [ ] 93. How to use the enhanced debugger to track Swift Tasks across threads
-- [ ] 94. How to enable Compilation Caching for faster build times
-- [ ] 95. How to use AI to analyze and optimize app performance
+- [x] 91. How to use AI to generate comprehensive test suites
+- [x] 92. How to leverage AI for debugging complex state management issues
+- [x] 93. How to use the enhanced debugger to track Swift Tasks across threads
+- [x] 94. How to enable Compilation Caching for faster build times
+- [x] 95. How to use AI to analyze and optimize app performance
 
 ### App Store Submission with AI Support
-- [ ] 96. How to use AI to write compelling App Store descriptions
-- [ ] 97. How to ask AI to check your app against App Store review guidelines
-- [ ] 98. How to generate privacy policy content with AI assistance
-- [ ] 99. How to create an archive and upload to App Store Connect
-- [ ] 100. How to use AI to troubleshoot TestFlight and submission errors
+- [x] 96. How to use AI to write compelling App Store descriptions
+- [x] 97. How to ask AI to check your app against App Store review guidelines
+- [x] 98. How to generate privacy policy content with AI assistance
+- [x] 99. How to create an archive and upload to App Store Connect
+- [x] 100. How to use AI to troubleshoot TestFlight and submission errors
 
 ---
 
