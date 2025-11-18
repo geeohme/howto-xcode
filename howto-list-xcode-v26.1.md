@@ -88,28 +88,28 @@
 ## Intermediate Level (Items 51-70)
 
 ### Advanced AI Coding Assistant Usage
-- [ ] 51. How to use AI to generate unit tests for existing code
-- [ ] 52. How to prompt AI assistants to create SwiftUI preview code
-- [ ] 53. How to ask AI to implement MVVM architecture for a feature
-- [ ] 54. How to use AI to convert UIKit code to SwiftUI
-- [ ] 55. How to have AI explain error messages and suggest fixes
-- [ ] 56. How to use AI to optimize slow-performing code
-- [ ] 57. How to generate Codable models from JSON using AI
-- [ ] 58. How to ask AI to add comprehensive error handling to functions
-- [ ] 59. How to use AI to suggest accessibility improvements
-- [ ] 60. How to prompt AI to localize strings and prepare for internationalization
+- [x] 51. How to use AI to generate unit tests for existing code
+- [x] 52. How to prompt AI assistants to create SwiftUI preview code
+- [x] 53. How to ask AI to implement MVVM architecture for a feature
+- [x] 54. How to use AI to convert UIKit code to SwiftUI
+- [x] 55. How to have AI explain error messages and suggest fixes
+- [x] 56. How to use AI to optimize slow-performing code
+- [x] 57. How to generate Codable models from JSON using AI
+- [x] 58. How to ask AI to add comprehensive error handling to functions
+- [x] 59. How to use AI to suggest accessibility improvements
+- [x] 60. How to prompt AI to localize strings and prepare for internationalization
 
 ### Additional AI Model Providers
-- [ ] 61. How to add Google Gemini as a custom model provider via API
-- [ ] 62. How to configure OpenRouter.io for multi-model access with one API key
-- [ ] 63. How to set up local AI models using Ollama in Xcode
-- [ ] 64. How to configure LM Studio for local model integration
-- [ ] 65. How to switch between multiple AI providers in the same conversation
-- [ ] 66. How to understand the cost implications of different AI model APIs
-- [ ] 67. How to manage multiple API keys for different providers
-- [ ] 68. How to troubleshoot AI provider connection issues
-- [ ] 69. How to reverse-engineer and customize Coding Intelligence prompts
-- [ ] 70. How to use Voice Coding to dictate Swift code with macOS Voice Control
+- [x] 61. How to add Google Gemini as a custom model provider via API
+- [x] 62. How to configure OpenRouter.io for multi-model access with one API key
+- [x] 63. How to set up local AI models using Ollama in Xcode
+- [x] 64. How to configure LM Studio for local model integration
+- [x] 65. How to switch between multiple AI providers in the same conversation
+- [x] 66. How to understand the cost implications of different AI model APIs
+- [x] 67. How to manage multiple API keys for different providers
+- [x] 68. How to troubleshoot AI provider connection issues
+- [x] 69. How to reverse-engineer and customize Coding Intelligence prompts
+- [x] 70. How to use Voice Coding to dictate Swift code with macOS Voice Control
 
 ---
 
