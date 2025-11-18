@@ -1,6 +1,6 @@
 # Knowledge Base Index: Xcode v26.1+
 
-**Total Articles**: 40
+**Total Articles**: 50
 **Last Updated**: November 18, 2025
 **Topic**: Build an iOS App for the App Store (Beginner to Advanced) using AI Code Assist
 **Xcode Version**: 26.1+ (Current: 26.1.1 stable, 26.2 beta available)
@@ -12,8 +12,9 @@
   - [Getting Started & Setup](#getting-started--setup-items-1-10)
   - [Basic Swift & SwiftUI Fundamentals](#basic-swift--swiftui-fundamentals-items-11-20)
   - [First App Development](#first-app-development-items-21-30)
-- [Beginner-Intermediate Level (31-40)](#beginner-intermediate-level-items-31-40)
+- [Beginner-Intermediate Level (31-50)](#beginner-intermediate-level-items-31-50)
   - [Using Integrated AI Coding Agents: ChatGPT Integration](#using-integrated-ai-coding-agents-chatgpt-integration-items-31-40)
+  - [Claude Integration (API-based)](#claude-integration-api-based-items-41-50)
 
 ---
 
@@ -66,7 +67,7 @@
 
 ---
 
-## Beginner-Intermediate Level (Items 31-40)
+## Beginner-Intermediate Level (Items 31-50)
 
 ### Using Integrated AI Coding Agents: ChatGPT Integration (Items 31-40)
 
@@ -83,6 +84,21 @@
 | KB-039 | How to use ChatGPT to fix compiler errors and bugs | `kb-article-039-fix-errors-bugs-chatgpt.md` | ✅ Complete |
 | KB-040 | How to generate documentation comments with ChatGPT | `kb-article-040-generate-documentation-chatgpt.md` | ✅ Complete |
 
+### Claude Integration (API-based) (Items 41-50)
+
+| ID | Title | Filename | Status |
+|----|-------|----------|--------|
+| KB-041 | How to create an Anthropic API account at console.anthropic.com | `kb-article-041-create-anthropic-api-account.md` | ✅ Complete |
+| KB-042 | How to generate an API key for Claude in the Anthropic console | `kb-article-042-generate-claude-api-key.md` | ✅ Complete |
+| KB-043 | How to add Claude as a model provider in Xcode Intelligence settings | `kb-article-043-add-claude-model-provider-xcode.md` | ✅ Complete |
+| KB-044 | How to configure the Claude API endpoint (https://api.anthropic.com/) | `kb-article-044-configure-claude-api-endpoint.md` | ✅ Complete |
+| KB-045 | How to set the API key header (x-api-key) for Claude authentication | `kb-article-045-set-api-key-header-claude.md` | ✅ Complete |
+| KB-046 | How to switch between ChatGPT and Claude Sonnet 4 in the Coding Assistant | `kb-article-046-switch-chatgpt-claude-coding-assistant.md` | ✅ Complete |
+| KB-047 | How to use Claude for complex refactoring tasks | `kb-article-047-use-claude-complex-refactoring.md` | ✅ Complete |
+| KB-048 | How to leverage Claude's context window for large code reviews | `kb-article-048-leverage-claude-context-window-code-reviews.md` | ✅ Complete |
+| KB-049 | How to ask Claude to analyze architecture patterns in your codebase | `kb-article-049-claude-analyze-architecture-patterns.md` | ✅ Complete |
+| KB-050 | How to compare responses between ChatGPT and Claude for the same coding task | `kb-article-050-compare-chatgpt-claude-responses.md` | ✅ Complete |
+
 ---
 
 ## Learning Path Recommendations
@@ -97,11 +113,13 @@ Progress through **Basic Swift & SwiftUI Fundamentals** articles (KB-011 through
 Continue with **First App Development** articles (KB-021 through KB-030) to build, test, and deploy your first SwiftUI application.
 
 ### For AI-Assisted Development
-Continue with **Using Integrated AI Coding Agents: ChatGPT Integration** articles (KB-031 through KB-040) to master AI-powered coding assistance in Xcode 26.1+.
+Continue with **Using Integrated AI Coding Agents: ChatGPT Integration** articles (KB-031 through KB-040) to master AI-powered coding assistance with ChatGPT in Xcode 26.1+.
+
+### For Advanced AI Integration
+Progress through **Claude Integration (API-based)** articles (KB-041 through KB-050) to add Claude Sonnet 4 as an alternative AI model provider for complex refactoring, architecture analysis, and large code reviews.
 
 ### Next Steps
-After completing items 1-40, you'll be ready to continue with:
-- Items 41-50: Claude Integration (Advanced AI Model Setup)
+After completing items 1-50, you'll be ready to continue with:
 - Items 51-70: Intermediate Level topics (Advanced AI usage, additional model providers)
 - Items 71-100: Advanced development and App Store submission
 

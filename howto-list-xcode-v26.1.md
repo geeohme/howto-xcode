@@ -72,16 +72,16 @@
 - [x] 40. How to generate documentation comments with ChatGPT
 
 #### Claude Integration (API-based)
-- [ ] 41. How to create an Anthropic API account at console.anthropic.com
-- [ ] 42. How to generate an API key for Claude in the Anthropic console
-- [ ] 43. How to add Claude as a model provider in Xcode Intelligence settings
-- [ ] 44. How to configure the Claude API endpoint (https://api.anthropic.com/)
-- [ ] 45. How to set the API key header (x-api-key) for Claude authentication
-- [ ] 46. How to switch between ChatGPT and Claude Sonnet 4 in the Coding Assistant
-- [ ] 47. How to use Claude for complex refactoring tasks
-- [ ] 48. How to leverage Claude's context window for large code reviews
-- [ ] 49. How to ask Claude to analyze architecture patterns in your codebase
-- [ ] 50. How to compare responses between ChatGPT and Claude for the same coding task
+- [x] 41. How to create an Anthropic API account at console.anthropic.com
+- [x] 42. How to generate an API key for Claude in the Anthropic console
+- [x] 43. How to add Claude as a model provider in Xcode Intelligence settings
+- [x] 44. How to configure the Claude API endpoint (https://api.anthropic.com/)
+- [x] 45. How to set the API key header (x-api-key) for Claude authentication
+- [x] 46. How to switch between ChatGPT and Claude Sonnet 4 in the Coding Assistant
+- [x] 47. How to use Claude for complex refactoring tasks
+- [x] 48. How to leverage Claude's context window for large code reviews
+- [x] 49. How to ask Claude to analyze architecture patterns in your codebase
+- [x] 50. How to compare responses between ChatGPT and Claude for the same coding task
 
 ---
 
