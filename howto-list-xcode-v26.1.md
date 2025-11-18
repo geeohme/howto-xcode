@@ -116,23 +116,23 @@
 ## Intermediate-Advanced Level (Items 71-85)
 
 ### Advanced UI Development with AI Assistance
-- [ ] 71. How to use VStack, HStack, and ZStack for layout composition
-- [ ] 72. How to apply modifiers to customize SwiftUI views
-- [ ] 73. How to use AI to generate complex custom view modifiers
-- [ ] 74. How to build navigation hierarchies using NavigationStack with AI guidance
-- [ ] 75. How to implement tab-based navigation with TabView
-- [ ] 76. How to create adaptive layouts that work across iPhone and iPad with AI help
-- [ ] 77. How to implement custom animations and transitions using AI suggestions
-- [ ] 78. How to build reusable component libraries with AI-generated documentation
+- [x] 71. How to use VStack, HStack, and ZStack for layout composition
+- [x] 72. How to apply modifiers to customize SwiftUI views
+- [x] 73. How to use AI to generate complex custom view modifiers
+- [x] 74. How to build navigation hierarchies using NavigationStack with AI guidance
+- [x] 75. How to implement tab-based navigation with TabView
+- [x] 76. How to create adaptive layouts that work across iPhone and iPad with AI help
+- [x] 77. How to implement custom animations and transitions using AI suggestions
+- [x] 78. How to build reusable component libraries with AI-generated documentation
 
 ### Data Management & Networking
-- [ ] 79. How to use @Observable macro for state management (Swift 6)
-- [ ] 80. How to implement SwiftData for modern data persistence
-- [ ] 81. How to create a network service layer with AI-generated code
-- [ ] 82. How to implement async/await for network calls using AI assistance
-- [ ] 83. How to use AI to generate comprehensive error handling for API requests
-- [ ] 84. How to implement authentication flows with AI-generated code
-- [ ] 85. How to ask AI to create mock data services for testing
+- [x] 79. How to use @Observable macro for state management (Swift 6)
+- [x] 80. How to implement SwiftData for modern data persistence
+- [x] 81. How to create a network service layer with AI-generated code
+- [x] 82. How to implement async/await for network calls using AI assistance
+- [x] 83. How to use AI to generate comprehensive error handling for API requests
+- [x] 84. How to implement authentication flows with AI-generated code
+- [x] 85. How to ask AI to create mock data services for testing
 
 ---
 
